@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "elm/parser",
-    "summary": "a parsing library, focused on simplicity and great error messages",
+    "name": "zokka-dev/elm-parser-1-1-override",
+    "summary": "override of elm/parser 1.1.x packages including bugfixes not merged upstream",
     "license": "BSD-3-Clause",
-    "version": "1.1.0",
+    "version": "1.0.0",
     "exposed-modules": [
         "Parser",
         "Parser.Advanced"

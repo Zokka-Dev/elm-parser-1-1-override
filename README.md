@@ -1,3 +1,9 @@
+**The fixes for this package come from the Elm Janitor project. We add some
+addiitional versioning and change some metadata.**
+
+See
+[https://github.com/elm-janitor/parser](https://github.com/elm-janitor/parser).
+
 # Parser
 
 Regular expressions are quite confusing and difficult to use. This library provides a coherent alternative that handles more cases and produces clearer code.
